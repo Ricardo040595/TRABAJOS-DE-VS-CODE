@@ -1,0 +1,64 @@
+body{
+    
+    background-image: url("https://img3.wallspic.com/previews/9/6/7/4/14769/14769-medianoche-modo_monocromo-ambiente-monocromo-negro-x750.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.Titulo{
+
+    color: rgb(204, 14, 14);
+    
+    padding:3em;
+    
+}
+
+.texto-de-warzone{
+
+    color: rgb(68, 168, 82);
+
+}
+
+.introduccion-warzone{
+    color: magenta;
+}
+
+.modo-de-juego{
+
+    color: gold;
+
+}
+
+.warzone-representa{
+
+     color: gold;
+}
+
+
+
+
+
+
+
+
+
+.img{
+
+
+     
+      width:fit-content;
+      display: flex;
+      margin-top:6em;
+      padding: 1.5em;
+    
+
+
+}
+
+.textos{
+
+    color: blue;
+    padding: 2.9em;
+    margin-top:3.5em;
+}
