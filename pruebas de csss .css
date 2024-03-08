@@ -1,0 +1,142 @@
+
+.imagen-azul{
+position: relative;
+display: inline-block;
+}
+
+.titulo-uno{
+  color: white;
+position: absolute;
+top:5%;
+left:15%;
+text-align: center;
+font-size: 34px;
+font-family: 'Times New Roman', Times, serif;
+
+}
+
+.link1{
+color: white;
+position: absolute;
+top: 5%;
+right: 30%;
+font-size:18px;
+}
+
+.link2{
+color:white;
+position: absolute;
+top: 5%;
+right: 20%;
+font-size: 18px;
+
+
+}
+
+.link3{
+color: white;
+position: absolute;
+top: 5%;
+right: 10%;
+font-size: 18px;
+
+}
+
+.insertar-imagen{
+position: absolute;
+top: 17%;
+right: 15%;
+
+}
+
+.awesome{
+
+  color: white;
+  position:absolute;
+  top:17%;
+  right:69%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  width: 15vw;
+}
+
+.descripcionpagina{
+ 
+  color: white;
+  position:absolute;
+  top:27%;
+  right:69%;
+  width: 15vw;
+  font-size: 18px;
+}
+
+.botondeacceso{
+
+background-color: #3882F6;
+color: white;
+position:absolute;
+top:43% ;
+right: 78%;
+width: 8em;
+height: 3em;
+border-radius: 15%;
+}
+
+.informacion{
+text-align: center;
+padding-top: 3em;
+font-size: 25px;
+
+
+
+
+}
+
+.cuadro1{
+
+background-color: rgb(255, 255, 255);
+width: 13em;
+height: 13em;
+border:3px solid rgb(0, 0, 0);
+ border-radius:15px;
+}
+
+.cuadro2{
+
+  background-color: rgb(255, 255, 255);
+  width: 13em;
+  height: 13em;
+  border:3px solid rgb(0, 0, 0);
+border-radius:15px;
+}
+
+.cuadro3{
+
+  background-color: rgb(255, 255, 255);
+  width: 13em;
+  height: 13em;
+  border:3px solid rgb(0, 0, 0);
+  border-radius:15px;
+}
+
+
+.cuadro4{
+
+  background-color: rgb(255, 255, 255);
+  width: 13em;
+  height: 13em;
+  border:3px solid rgb(0, 0, 0);
+  border-radius: 15px;
+}
+
+.contenedores{
+
+
+  
+display: flex;
+justify-content: space-evenly;
+padding-top: 4.5em;
+width: 70vw;
+padding-left:18em;
+}
+
